@@ -1,6 +1,6 @@
 # iojs-tw
 
-[![Build Status](https://travis-ci.org/wwin3286tw/iojs-tw.svg?branch=master)](https://travis-ci.org/wwin3286tw/iojs-tw) [![Gitter]
+[![Build Status](https://travis-ci.org/wwin3286tw/iojs-tw.svg?branch=master)](https://travis-ci.org/wwin3286tw/iojs-tw)
 
 [台灣官方網站](http://tw.iojs.org/)
 
